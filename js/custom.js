@@ -9,5 +9,5 @@ $( document ).ready(function() {
     console.log( "page ready" );
 	$('#p-1').text('Excellent! page fully loaded.')
 	$('#a-1').text('Solved')
-	
+	$('#a-3').show()
 });
